@@ -1,0 +1,13 @@
+
+
+This archive contains the distribution WebService-SendGrid,
+version 1.0:
+
+  An interface to the SendGrid email service
+
+This software is copyright (c) 2011 by Jonathan Lloyd <webmaster@lifegames.org>.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
+
+
