@@ -29,12 +29,13 @@ my %WriteMakefileArgs = (
     "HTTP::Request" => 0,
     "HTTP::Response" => 0,
     "JSON::XS" => "2.3",
+    "Mail::RFC822::Address" => 0,
     "Moose" => 2,
     "Moose::Util::TypeConstraints" => 2,
     "MooseX::Method::Signatures" => "0.36",
     "URI" => 0
   },
-  "VERSION" => "1.0",
+  "VERSION" => "1.01",
   "test" => {
     "TESTS" => "t/*.t"
   }
