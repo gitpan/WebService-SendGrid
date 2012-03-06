@@ -1,6 +1,6 @@
 package WebService::SendGrid::Profile;
 {
-  $WebService::SendGrid::Profile::VERSION = '1.01';
+  $WebService::SendGrid::Profile::VERSION = '1.02';
 }
 # ABSTRACT: The Profile class for your SendGrid account
 use Moose;
@@ -120,7 +120,7 @@ WebService::SendGrid::Profile - The Profile class for your SendGrid account
 
 =head1 VERSION
 
-version 1.01
+version 1.02
 
 =head1 SYNOPSIS
 

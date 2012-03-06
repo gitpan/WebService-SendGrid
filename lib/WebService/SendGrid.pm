@@ -1,6 +1,6 @@
 package WebService::SendGrid;
 {
-  $WebService::SendGrid::VERSION = '1.01';
+  $WebService::SendGrid::VERSION = '1.02';
 }
 # ABSTRACT: An interface to the SendGrid email service
 use Moose;
@@ -111,7 +111,7 @@ WebService::SendGrid - An interface to the SendGrid email service
 
 =head1 VERSION
 
-version 1.01
+version 1.02
 
 =head1 DESCRIPTION
 

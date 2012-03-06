@@ -33,9 +33,10 @@ my %WriteMakefileArgs = (
     "Moose" => 2,
     "Moose::Util::TypeConstraints" => 2,
     "MooseX::Method::Signatures" => "0.36",
-    "URI" => 0
+    "URI" => 0,
+    "WWW::Curl::Simple" => 0
   },
-  "VERSION" => "1.01",
+  "VERSION" => "1.02",
   "test" => {
     "TESTS" => "t/*.t"
   }

@@ -1,6 +1,6 @@
 package WebService::SendGrid::Mail;
 {
-  $WebService::SendGrid::Mail::VERSION = '1.01';
+  $WebService::SendGrid::Mail::VERSION = '1.02';
 }
 # ABSTRACT: An email class for sending a message through SendGrid
 use Moose;
@@ -68,7 +68,7 @@ WebService::SendGrid::Mail - An email class for sending a message through SendGr
 
 =head1 VERSION
 
-version 1.01
+version 1.02
 
 =head1 SYNOPSIS
 
